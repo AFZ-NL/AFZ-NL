@@ -1,0 +1,5 @@
+﻿<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8"></head>
+  <body>​​​​​​​<p>/* General page styles */<br>body {<br>&nbsp; &nbsp; font-family: Arial, sans-serif;<br>&nbsp; &nbsp; margin: 0;<br>&nbsp; &nbsp; padding: 0;<br>&nbsp; &nbsp; background-color: #f4f4f9;<br>&nbsp; &nbsp; color: #333;<br>}</p><p>header {<br>&nbsp; &nbsp; background-color: #007bff;<br>&nbsp; &nbsp; color: white;<br>&nbsp; &nbsp; padding: 20px;<br>&nbsp; &nbsp; text-align: center;<br>}</p><p>header h1 {<br>&nbsp; &nbsp; margin: 0;<br>}</p><p>main {<br>&nbsp; &nbsp; padding: 20px;<br>}</p><p>.iframe-container {<br>&nbsp; &nbsp; display: flex;<br>&nbsp; &nbsp; justify-content: center;<br>&nbsp; &nbsp; margin-top: 20px;<br>}</p><p>iframe {<br>&nbsp; &nbsp; border: 1px solid #ccc;<br>&nbsp; &nbsp; border-radius: 8px;<br>&nbsp; &nbsp; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);<br>}</p><p>footer {<br>&nbsp; &nbsp; background-color: #007bff;<br>&nbsp; &nbsp; color: white;<br>&nbsp; &nbsp; text-align: center;<br>&nbsp; &nbsp; padding: 10px;<br>&nbsp; &nbsp; position: fixed;<br>&nbsp; &nbsp; bottom: 0;<br>&nbsp; &nbsp; width: 100%;<br>}<br><br></p>  </body>
+</html>
